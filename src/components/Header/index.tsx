@@ -1,4 +1,4 @@
-import { Logo } from "../Logo";
+import { Logo } from "../Header/Logo";
 
 export const Header = () => {
   return (
